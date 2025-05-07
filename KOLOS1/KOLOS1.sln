@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOLOS1", "KOLOS1\KOLOS1.csproj", "{890DEA18-365D-457B-B218-7C196D49E5AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{890DEA18-365D-457B-B218-7C196D49E5AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890DEA18-365D-457B-B218-7C196D49E5AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890DEA18-365D-457B-B218-7C196D49E5AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890DEA18-365D-457B-B218-7C196D49E5AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
